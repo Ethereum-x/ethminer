@@ -1,0 +1,5 @@
+1. Open the start ETX file
+2. Modify 0xac776c21e0aa98348b2f3d4f8290739dcb40e911 as your wallet address.
+3. Change kk01 to your miner's name.
+4. Save the file ,
+5. Double click Start ETX to start mining
